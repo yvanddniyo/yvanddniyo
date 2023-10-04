@@ -2,7 +2,8 @@
  I'm Yvan from Rwanda, and I'm a software developer i really enjoy learning languages,new framework and library in the field of software development, like React, Firebase, Next and React Native
  as well as work on Wordpress. i also enjoy wireframing ui, ux and design in general.
 
- ##Skills and Experience
+ ##Skills and Experience:
+ 
   ⚛React
   🔥FireBase 
   📰Next
