@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm NIYONSHIMA YVAN</h1>
-<h3 align="center">A passionate software development from Rwanda a passionate with a love for turning ideas into reality through elegant code and innovative solutions. My journey in the world of programming began 4 years ago, and since then, I've been on an exciting quest to constantly improve my skills and contribute to the ever-evolving landscape of technology.</h3>
+<h3 align="center">A passionate software development from Rwanda a passionate with a love for turning ideas into reality through elegant code and innovative solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yvanddniyo&label=Profile%20views&color=0e75b6&style=flat" alt="yvanddniyo" /> </p>
 
