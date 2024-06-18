@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Andela Training Learning Program**
 
-- 🌱 I’m currently learning **TypeScript, chart.js and many more**
+- 🌱 I’m currently learning **C++ and many more**
 
 - 👯 I’m looking to collaborate on **Different project**
 
