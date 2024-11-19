@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is YVAN NIYONSHIMA and I'm a Software developer, from Rwanda</h2>
 
 ###
 
@@ -62,5 +62,9 @@
 <div align="center">
   <img height="200" src="https://backiee.com/static/wallpapers/1000x563/386745.jpg"  />
 </div>
+
+###
+
+<p align="left">I'm a passionate Software Developer with a knack for building efficient and scalable applications. I enjoy solving complex problems and continuously learning new technologies to enhance my skill set.</p>
 
 ###
