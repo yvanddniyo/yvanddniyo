@@ -2,6 +2,10 @@
 
 ###
 
+<p align="left">I'm a passionate Software Developer with a knack for building efficient and scalable applications. I enjoy solving complex problems and continuously learning new technologies to enhance my skill set.</p>
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -62,9 +66,5 @@
 <div align="center">
   <img height="200" src="https://backiee.com/static/wallpapers/1000x563/386745.jpg"  />
 </div>
-
-###
-
-<p align="left">I'm a passionate Software Developer with a knack for building efficient and scalable applications. I enjoy solving complex problems and continuously learning new technologies to enhance my skill set.</p>
 
 ###
