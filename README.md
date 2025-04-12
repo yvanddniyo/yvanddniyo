@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Yvan Niyonshima and I'm a Software Developer, from Rwanda</p>
+<p align="left">My name is Yvan Niyonshima and I'm a Software Developer, from Rwanda.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning nextjs and react-native<br>🎯 Goals: Master web and application development.<br>🎲 Fun fact:  Addicted to work harder. </p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning react-native and data structure<br>🎯 Goals: Master web and application development.<br>🎲 Fun fact:  Addicted to work harder. </p>
 
 ###
 
