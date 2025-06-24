@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Yvan Niyonshima and I'm a Software Developer from Rwanda..</p>
+<p align="left">My name is Yvan Niyonshima and I'm a Software Developer from Rwanda.</p>
 
 ###
 
