@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨Creating bugs since 2022<br> 📚 I'm currently learning react Native and data structure and Algorthhim (DSA)<br>🎯 Goals: Master web and application development.<br>🎲 Fun fact:  Addicted to work harder and coffee </p>
+<p align="left">✨Creating bugs since 2022<br> 📚 I'm currently learning React Native and Data Structure and Algorthhim (DSA)<br>🎯 Goals: Master web and application development.<br>🎲 Fun fact:  Addicted to work harder and coffee </p>
 
 ###
 
