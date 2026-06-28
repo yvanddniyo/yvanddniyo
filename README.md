@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨Creating bugs since 2022<br> 📚 I'm currently learning Python, Machine Learning(ML) and Data Structure and Algorthhim in Python (DSA)<br>🎯 Goals: Master ML and application development<br>🎲 Fun fact:  Addicted to work harder</p>
+<p align="left">✨Creating bugs since 2022<br> 📚 I'm currently learning Python, Machine Learning(ML) and RAG and Data Structure and Algorthhim in Python (DSA)<br>🎯 Goals: Master ML and application development<br>🎲 Fun fact:  Addicted to work harder</p>
 
 ###
 
